@@ -1,6 +1,6 @@
 .App {
     font-family: "DM Sans", sans-serif;
-    background-color: #cecbcbb0;
+    background-color: #cecbcb4a;
     min-height: 100vh;
 }
 
@@ -73,7 +73,7 @@ figure {
 }
 
 *::-webkit-scrollbar-track {
-    background: #f1f1f180;
+    background: #f1f1f1ce;
 }
 
 *::-webkit-scrollbar-thumb {
